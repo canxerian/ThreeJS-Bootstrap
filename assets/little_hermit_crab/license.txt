@@ -1,0 +1,11 @@
+Model Information:
+* title:	Little Hermit Crab
+* source:	https://sketchfab.com/3d-models/little-hermit-crab-3fc91d811ae54de5b5fc5bb0e3db538a
+* author:	Citflo (https://sketchfab.com/allegory.fake)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Little Hermit Crab" (https://sketchfab.com/3d-models/little-hermit-crab-3fc91d811ae54de5b5fc5bb0e3db538a) by Citflo (https://sketchfab.com/allegory.fake) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
